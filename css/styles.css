@@ -1,0 +1,214 @@
+/* CONTAINER */
+
+.top-bar {
+    background-color: rgb(127,127,127);
+    height: 35px;
+    width: 100%;
+    position: relative;
+}
+
+.top-container {
+    background-color: rgb(217,217,217);
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+.profile-container {
+    background-color: white;
+    width: 100%;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.inside-profile-container {
+    width: 75%;
+    margin-left: 100px;
+    text-align: justify;
+    padding-bottom: 100px;
+}
+
+.techno-skill-container {
+    background-color: rgb(217,217,217);
+    width: 100%;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+}
+
+.inside-techno {
+    display: inline-block;
+    height: 366px;
+    width: 22%;
+    margin-left: 2%;
+    text-align: center;
+}
+
+.soft-skill-container {
+    background-color: white;
+    width: 100%;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 75px;
+}
+
+.inside_soft-container {
+    display: inline-block;
+    width: 22%;
+    margin-left: 2%;
+    text-align: center;
+}
+
+.title-skill {
+    height: 25%;
+    padding: 25px 0;
+}
+
+.container-figure {
+    height: 50%;
+    margin: auto,
+}
+
+.description-figure {
+    height: 25%;
+    font-size: 90%;
+}
+
+.contact-container {
+    background-color: rgb(217,217,217);
+    width: 100%;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    background-color: rgb(153,51,102);
+    width: 100%;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.lateral-nav {
+    background-color: rgb(217,217,217);
+    height: 100%;
+    width: 50px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    opacity: 0.85;
+}
+
+
+/* FEATURES */
+
+.planet {
+    display: inline-block;
+    width: 12%;
+    position: absolute;
+    top: 3.125rem;
+    right: 10rem;
+}
+
+.laptop-launch {
+    display: inline-block;
+    width: 22%;
+    position: absolute;
+    bottom: 3.125rem;
+    left: 2rem;
+}
+
+.grettings {
+    padding-top: 12rem;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.highlight {
+    color: rgb(153,51,102);
+}
+
+.title {
+    font-size: 180%;
+}
+
+.profile {
+    width: 30%;
+    position: relative;
+    float: left;
+}
+
+.profle-description {
+    padding-top: 4rem;
+}
+
+.figure {
+    width: 45%;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 35px;
+    position: relative;
+    top: 15px;
+}
+
+.logo:hover {
+    filter: brightness(150%);
+}
+
+.log_contact {
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+}
+
+.log_contact:hover {
+    filter: brightness(150%);
+}
+
+.foot {
+    color: white;
+    font-size: 105%;
+    line-height: 1;
+    padding: 0.5rem;
+}
+
+
+/* SELECTOR */
+
+body {
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+h1 {
+    color: rgb(153,51,102);
+    font: 350% bahnschrift;
+    line-height: 1.5;
+    margin: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+h2 {
+    color: rgb(153,51,102);
+    font: 250% bahnschrift;
+    margin: 0;
+    padding: 25px 0;
+}
+
+p {
+    color: black;
+    font: 160% bahnschrift;
+    padding: 15px;
+    margin: 0;
+}
